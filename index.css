@@ -1,0 +1,83 @@
+.header-section{
+    text-align: center;
+}
+.title{
+    font-size: 50px;
+   
+    font-style: normal;
+    font-weight: 400;
+}
+.images{
+    height: 200px;
+    margin-top: 100px;
+}
+.images2{
+    height: 125px;
+}
+.learn{
+
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+    font-size: 32.5px;
+
+}
+.mainimages{
+    /* width: 500px;
+    height: 250px; */
+    height: 50%;
+}
+
+.mainpagetexts{
+    font-size: 20px;
+  
+    
+}
+  
+.eighttitles{
+    text-shadow: 10px 10px 10px #111 ;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 1000px;
+}
+.eightp{
+    
+    text-align: center;
+    font-size: 30px;
+    color: #111;
+
+}
+.images{
+    text-align: center;
+}
+.imagesright{
+    float: right;
+    width: 200px;
+    height: 200px;
+}
+.imagesleft{
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+.learnmorebutton{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 7px 10px;
+    border-radius: 10px;
+
+}
+.eightskillstitle{
+    text-shadow: 5px 5px 10px black;
+    text-align: center;
+    font-size: 40px;
+    
+    margin-top:80px;
+}
+.row {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,63 @@
+body {
+    color: black;
+}
+ol li {
+    
+    font-size: 24px;
+    color: black;
+    
+}
+ol p {
+    font-size: 22px;
+}
+.header {
+    font-size: 25px;
+    color: limegreen;
+    font-weight: bold;
+}
+.hero {
+    height: 500px;
+    position: relative;
+    background: url(Image/rice_plant.jpg);
+    background-size: cover;
+    color: white;
+}
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-color: rgba(239, 235, 235, 0.3);
+    color: white;
+    padding: 50px;
+    border-radius: 10px;
+}
+.text > h1 {
+    font-size: 48px;
+    color: black;
+}
+.text > p {
+    font-size: 25px;
+    color: black;
+    
+}
+
+.bigger{
+    font-size: 25px;
+}
+div > p{
+    color: black;
+    
+    font-size: 20px;
+}
+div > h2{
+    color: black;
+   
+
+}
+ul > li{
+    color: black;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    font-size: 20px;
+}

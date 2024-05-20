@@ -1,0 +1,31 @@
+.hero  {
+    height: 500px;
+    position: relative;
+    background: url(Image/2104.q702.024.F.m005.c5.cleaning\ design\ concept.jpg);
+    background-size: cover;
+    
+}
+.text   {
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.542);
+}
+.text > h1  {
+    font-size: 48px;
+    color: black;  
+    
+}
+.text > p   {
+    font-size: 25px;
+    color: black;
+    
+}
+nav {
+}
+.textscleaning{
+   
+    font-size: 20px;
+}

@@ -1,0 +1,42 @@
+ol li   {
+    font-weight: bold;
+    font-size: 24px;
+    color: darkgray;
+}
+ol p    {
+    font-size: 22px;
+}
+.header {
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+   
+}
+.hero {
+    height: 500px;
+    position: relative;
+    background: url(Image/thanit2022february_12.jpg);
+    background-size: cover;
+    
+}
+.text   {
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.873);
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 10px;
+}
+
+.text > h1  {
+    font-size: 48px;
+    color: rgb(0, 0, 0);
+}
+.text > p   {
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+   
+}
